@@ -1,2 +1,3 @@
-# hy-docker-2022
-HY DevOps with Docker
+# HY DevOps with Docker
+
+Helsingin Yliopiston DevOps with Docker -kurssin tehtävien palautukseen
