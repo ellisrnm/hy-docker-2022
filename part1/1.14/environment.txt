@@ -1,0 +1,2 @@
+docker build ./backend -t backend && docker run -d -p 8080:8080 backend 
+docker build ./frontend -t frontend && docker run -d -p 5000:5000 frontend 
