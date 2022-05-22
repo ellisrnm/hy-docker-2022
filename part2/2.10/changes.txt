@@ -1,0 +1,3 @@
+- Removing ENV REACT_APP_BACKEND_URL http://localhost:8080 from frontend Dockerfile
+- Removing ENV REQUEST_ORIGIN http://localhost:5000 from backend Dockerfile
+- Removing ports from docker-compose.yml for frontend and backend
